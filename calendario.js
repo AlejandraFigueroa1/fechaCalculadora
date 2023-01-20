@@ -15,23 +15,23 @@ function Calcular(){
             diaDeLaSemana =  "Domingo No es dia laborable";
             break;
             case 1:
-                diaDeLaSemana =  "Lunes No es dia laborable";
+                diaDeLaSemana =  "Lunes es dia laborable";
                 break;
         
                 case 2:
-            diaDeLaSemana =  "Martes No es dia laborable";
+            diaDeLaSemana =  "Martes es dia laborable";
             break;
         
             case 3:
-            diaDeLaSemana =  "Miercoles No es dia laborable";
+            diaDeLaSemana =  "Miercoles es dia laborable";
             break;
         
             case 4:
-            diaDeLaSemana =  "Jueves No es dia laborable";
+            diaDeLaSemana =  "Jueves es dia laborable";
             break;
         
             case 5:
-            diaDeLaSemana =  "Viernes No es dia laborable";
+            diaDeLaSemana =  "Viernes es dia laborable";
             break;
         
             case 6:
